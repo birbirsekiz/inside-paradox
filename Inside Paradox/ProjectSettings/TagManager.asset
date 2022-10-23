@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FollowCamera
+  - VirtualCamera
+  - Platform
+  - DeathPlatform
+  - CheckPoint
+  - CheckPointSaver
+  - CharacterCrown
+  - NextScene
+  - EndOfTheLevel
+  - ControlLocker
+  - CloneControl
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Player
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 401690071
+    locked: 0
+  - name: Cloud
+    uniqueID: 2952172313
+    locked: 0
+  - name: Tree
+    uniqueID: 2212754621
+    locked: 0
+  - name: Particle
+    uniqueID: 3586346275
+    locked: 0
+  - name: Player
+    uniqueID: 3838623825
+    locked: 0
+  - name: Platform
+    uniqueID: 321502975
+    locked: 0
+  - name: UI
+    uniqueID: 1793807893
+    locked: 0
