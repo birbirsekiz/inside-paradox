@@ -1,4 +1,4 @@
-## Inside Paradox
+## Inside Paradox (PC Game)
 
 ![stars](https://img.shields.io/github/stars/birbirsekiz/inside-paradox)
 ![forks](https://img.shields.io/github/forks/birbirsekiz/inside-paradox)
