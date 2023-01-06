@@ -24,9 +24,9 @@ https://user-images.githubusercontent.com/61617126/197409496-2d9fa8ff-2a34-4a5a-
 
 `Space`: jump
 
-`E`: split/merge character
+`E`: split/merge character(s)
 
-`Q`: change character
+`Q`: change active character
 
 ### Sources
 >_Music by Royalty Free Music - Solve The Puzzle_
