@@ -12,6 +12,8 @@
 
 _This game is developed for **Google Game and App Academy**._
 
+_Although the game can be finished, it is still under development._
+
 ### Gameplay
 https://user-images.githubusercontent.com/61617126/197409496-2d9fa8ff-2a34-4a5a-ab0f-ffe06affc5ff.mp4
 
@@ -26,6 +28,7 @@ https://user-images.githubusercontent.com/61617126/197409496-2d9fa8ff-2a34-4a5a-
 
 `Q`: change character
 
+### Sources
 >_Music by Royalty Free Music - Solve The Puzzle_
 
 ## License
