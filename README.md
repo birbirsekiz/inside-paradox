@@ -31,6 +31,9 @@ https://user-images.githubusercontent.com/61617126/197409496-2d9fa8ff-2a34-4a5a-
 ### Sources
 >_Music by Royalty Free Music - Solve The Puzzle_
 
+### Team
+>_The team that developed the game:_ [`.birbirsekiz`](https://github.com/birbirsekiz)
+
 ## License
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
 
