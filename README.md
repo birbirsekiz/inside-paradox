@@ -3,6 +3,7 @@
 ![stars](https://img.shields.io/github/stars/birbirsekiz/inside-paradox)
 ![forks](https://img.shields.io/github/forks/birbirsekiz/inside-paradox)
 ![licence](https://img.shields.io/github/license/birbirsekiz/inside-paradox)
+![last-commit](https://img.shields.io/github/last-commit/birbirsekiz/inside-paradox)
 
 ### About the Game
 
