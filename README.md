@@ -1,11 +1,11 @@
-## Inside Paradox (PC Game)
+## :stars: Inside Paradox (PC Game)
 
 ![stars](https://img.shields.io/github/stars/birbirsekiz/inside-paradox)
 ![forks](https://img.shields.io/github/forks/birbirsekiz/inside-paradox)
 ![licence](https://img.shields.io/github/license/birbirsekiz/inside-paradox)
 ![last-commit](https://img.shields.io/github/last-commit/birbirsekiz/inside-paradox)
 
-### About the Game
+### :information_source: About the Game
 
 :white_check_mark: _A character who tries to discover himself before exploring the world._
 
@@ -20,24 +20,25 @@
 ### Gameplay
 https://user-images.githubusercontent.com/61617126/197409496-2d9fa8ff-2a34-4a5a-ab0f-ffe06affc5ff.mp4
 
-### Controls
-`A, left arrow`: move left
+### :video_game: Controls
+`E` split/merge character(s)
 
-`D, right arrow`: move right
+`Q` change active character
 
-`Space`: jump
+`A, left arrow` move left
 
-`E`: split/merge character(s)
+`D, right arrow` move right
 
-`Q`: change active character
+`Space` jump
 
 ### Sources
->_Music by Royalty Free Music - Solve The Puzzle_
+:musical_note: _Music by Royalty Free Music - Solve The Puzzle_
 
-### Team
->_The team that developed the game:_ [`.birbirsekiz`](https://github.com/birbirsekiz)
+:ballot_box_with_check: _All assets were created by the team._
 
-## License
+### :tm: Team
+_The team that developed the game_ [`.birbirsekiz`](https://github.com/birbirsekiz)
+
+## :page_with_curl: License
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
 
-_All assets were created by the team._
