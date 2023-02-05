@@ -5,6 +5,8 @@
 ![licence](https://img.shields.io/github/license/birbirsekiz/inside-paradox)
 ![last-commit](https://img.shields.io/github/last-commit/birbirsekiz/inside-paradox)
 
+:star: _This game is developed for **Google Game and App Academy**._
+
 ### :information_source: About the Game
 
 :white_check_mark: _A character who tries to discover himself before exploring the world._
@@ -12,8 +14,6 @@
 :white_check_mark: _This puzzle platform game touches on inner contradiction._
 
 :white_check_mark: _The game can be completed in about 5~15 minutes._
-
-:point_right: _This game is developed for **Google Game and App Academy**._
 
 - [x] _Although the game can be reached to the end, it is still under development._
 
