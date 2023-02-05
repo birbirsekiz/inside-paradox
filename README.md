@@ -39,6 +39,6 @@ https://user-images.githubusercontent.com/61617126/197409496-2d9fa8ff-2a34-4a5a-
 ### :tm: Team
 _The team that developed the game_ [`.birbirsekiz`](https://github.com/birbirsekiz)
 
-## :page_with_curl: License
+### :page_with_curl: License
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
 
