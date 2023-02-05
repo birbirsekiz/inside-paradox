@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/61617126/197409496-2d9fa8ff-2a34-4a5a-
 ### Sources
 :musical_note: _Music by Royalty Free Music - Solve The Puzzle_
 
-:ballot_box_with_check: _All assets were created by the team._
+- [x] _All assets were created by the team._
 
 ### :tm: Team
 _The team that developed the game_ [`.birbirsekiz`](https://github.com/birbirsekiz)
