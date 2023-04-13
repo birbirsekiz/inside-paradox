@@ -5,9 +5,9 @@
 ![licence](https://img.shields.io/github/license/birbirsekiz/inside-paradox)
 ![last-commit](https://img.shields.io/github/last-commit/birbirsekiz/inside-paradox)
 
-:star: This game is developed for **Google Game and App Academy**
+:star: Developed for capstone of [**Google Game and App**](oyunveuygulamaakademisi.com)
 
-:star: Play on [itch.io](https://myoluk.itch.io/inside-paradox) on browser
+:star: Play on [**itch.io**](https://myoluk.itch.io/inside-paradox) on browser
 
 ### :information_source: About the Game
 
