@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/61617126/197409496-2d9fa8ff-2a34-4a5a-
 
 `Space` jump
 
-### Sources
+### :package: Sources
 :musical_note: _Music by Royalty Free Music - Solve The Puzzle_
 
 - [x] _All assets were created by the team._
