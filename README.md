@@ -1,7 +1,7 @@
 ## :stars: Inside Paradox - Platformer Puzzle Game
 
 ![stars](https://img.shields.io/github/stars/birbirsekiz/inside-paradox)
-![engine](https://img.shields.io/badge/Engine-Unity-orange)
+![engine](https://img.shields.io/badge/Engine-Unity-black)
 ![licence](https://img.shields.io/github/license/birbirsekiz/inside-paradox)
 ![last-commit](https://img.shields.io/github/last-commit/birbirsekiz/inside-paradox)
 
